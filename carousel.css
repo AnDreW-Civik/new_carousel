@@ -5,7 +5,7 @@
   margin: 30px auto;
   overflow: hidden;
 }
-.slider-line {
+#slider-line {
   height: 256px;
   width: 1024px;
   display: flex;
